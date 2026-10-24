@@ -1,5 +1,13 @@
 [
   {
+    "version": "v0.2.0",
+    "date": "2026-10-24",
+    "notes": "Pixel art pass: everything redrawn as pixel art with animation frames, pixel UI and font. Same game as v0.1.0.",
+    "commit": "91a7e2f",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable"
+  },
+  {
     "version": "v0.1.0",
     "date": "2026-10-24",
     "notes": "Visual style prototypes: A creatures, B cards, C hero + cards. 16 placeholder items, 4 merchants.",
