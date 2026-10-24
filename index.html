@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trader playtest builds</title>
+<style>
+  :root { --bg:#17151f; --panel:#231f2e; --ink:#f3eee4; --muted:#a39cb5; --gold:#ffd34d; --line:#3a3450; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui, sans-serif; }
+  main { max-width:640px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { color:var(--gold); font-size:40px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 24px; }
+  .play { display:block; text-align:center; background:#3d7a4f; color:var(--ink); text-decoration:none;
+          font-size:22px; font-weight:600; padding:18px; border-radius:16px; margin-bottom:32px; }
+  ul { list-style:none; padding:0; margin:0; display:grid; gap:12px; }
+  li { background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:16px; }
+  .head { display:flex; align-items:center; gap:10px; }
+  .ver { color:var(--gold); font-weight:700; font-size:20px; text-decoration:none; }
+  .tag { background:var(--gold); color:#17151f; font-size:12px; font-weight:700; padding:2px 8px; border-radius:99px; }
+  .date { margin-left:auto; color:var(--muted); font-size:14px; }
+  p { margin:8px 0 12px; }
+  .links { display:flex; flex-wrap:wrap; gap:8px; }
+  .style { color:var(--ink); text-decoration:none; border:1px solid var(--line); border-radius:10px;
+           padding:8px 12px; font-size:14px; min-height:44px; display:inline-flex; align-items:center; }
+</style></head>
+<body><main>
+  <h1>Trader</h1>
+  <p class="sub">Playtest builds. Best on a phone held upright. Every version stays playable here.</p>
+  <a class="play" href="latest/">Play the latest build</a>
+  <ul>
+    <li>
+      <div class="head"><a class="ver" href="v0.1.0/">v0.1.0</a> <span class="tag">latest</span>
+        <span class="date">2026-10-24</span></div>
+      <p>Visual style prototypes: A creatures, B cards, C hero + cards. 16 placeholder items, 4 merchants.</p>
+      <div class="links"><a class="style" href="v0.1.0/?style=A">A · Creatures</a> <a class="style" href="v0.1.0/?style=B">B · Cards</a> <a class="style" href="v0.1.0/?style=C">C · Hero + Cards</a></div>
+    </li>
+  </ul>
+</main></body></html>
