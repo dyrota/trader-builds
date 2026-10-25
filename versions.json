@@ -1,5 +1,47 @@
 [
   {
+    "version": "v0.7.0",
+    "date": "2026-10-24",
+    "notes": "Generated evolving monsters: I battler sprites, J top-down walkers",
+    "commit": "16c47b4",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "G",
+        "Torio painted"
+      ],
+      [
+        "H",
+        "Torio pixel"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.6.0",
     "date": "2026-10-24",
     "notes": "Same-tier upgrades, 5-8 board tiles option, bigger text and UI for phones",
