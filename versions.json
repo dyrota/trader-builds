@@ -1,5 +1,71 @@
 [
   {
+    "version": "v0.9.0",
+    "date": "2026-10-25",
+    "notes": "Critter layout variants L/M/N: bigger critters, slimmer UI",
+    "commit": "4b90265",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "G",
+        "Torio painted"
+      ],
+      [
+        "H",
+        "Torio pixel"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.8.0",
     "date": "2026-10-25",
     "notes": "Style K: Critter Crosser-inspired procedural critters on grass",
