@@ -1,5 +1,63 @@
 [
   {
+    "version": "v0.10.0",
+    "date": "2026-10-25",
+    "notes": "Critter layouts M and N lead; Torio styles removed",
+    "commit": "2028219",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.9.0",
     "date": "2026-10-25",
     "notes": "Critter layout variants L/M/N: bigger critters, slimmer UI",
