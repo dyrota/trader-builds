@@ -1,5 +1,39 @@
 [
   {
+    "version": "v0.3.0",
+    "date": "2026-10-24",
+    "notes": "Creature face-off variants: D flat, E arena depth, F arena + Bazaar plates; back-view creatures, hero portraits on HP bars",
+    "commit": "af01611",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.2.0",
     "date": "2026-10-24",
     "notes": "Pixel art pass: everything redrawn as pixel art with animation frames, pixel UI and font. Same game as v0.1.0.",
