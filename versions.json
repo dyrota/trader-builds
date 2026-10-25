@@ -1,5 +1,63 @@
 [
   {
+    "version": "v0.11.0",
+    "date": "2026-10-25",
+    "notes": "Critter roster redrawn: cute faces, consistent style, Lab picks added",
+    "commit": "ce8ce75",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.10.1",
     "date": "2026-10-25",
     "notes": "Critters idle (breathe and blink) instead of walking",
