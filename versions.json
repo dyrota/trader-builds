@@ -68,7 +68,7 @@
   {
     "version": "v0.8.0",
     "date": "2026-10-25",
-    "notes": "Style K: Critter Crosser-inspired procedural critters on grass",
+    "notes": "Style K: procedurally generated critters on grass",
     "commit": "30602d0",
     "branch": "users/chase/trader",
     "engine": "4.7.stable",
