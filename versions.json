@@ -1,5 +1,47 @@
 [
   {
+    "version": "v0.6.0",
+    "date": "2026-10-24",
+    "notes": "Same-tier upgrades, 5-8 board tiles option, bigger text and UI for phones",
+    "commit": "19bf5c3",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "G",
+        "Torio painted"
+      ],
+      [
+        "H",
+        "Torio pixel"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.5.0",
     "date": "2026-10-24",
     "notes": "Style G gets its own look: dungeon backdrops, fantasy type and panels, bigger painted monsters",
