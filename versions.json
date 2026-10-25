@@ -1,5 +1,63 @@
 [
   {
+    "version": "v0.11.2",
+    "date": "2026-10-25",
+    "notes": "Critter faces restored to the original style",
+    "commit": "883a13e",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.11.1",
     "date": "2026-10-25",
     "notes": "Critter faces: original bulging eyes, polished and symmetric",
