@@ -1,5 +1,47 @@
 [
   {
+    "version": "v0.4.0",
+    "date": "2026-10-24",
+    "notes": "Torio monster art: G painted with cut-out animation, H pixelated, on the arena layout",
+    "commit": "750e30f",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "G",
+        "Torio painted"
+      ],
+      [
+        "H",
+        "Torio pixel"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.3.0",
     "date": "2026-10-24",
     "notes": "Creature face-off variants: D flat, E arena depth, F arena + Bazaar plates; back-view creatures, hero portraits on HP bars",
