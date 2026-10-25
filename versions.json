@@ -1,5 +1,63 @@
 [
   {
+    "version": "v0.11.1",
+    "date": "2026-10-25",
+    "notes": "Critter faces: original bulging eyes, polished and symmetric",
+    "commit": "e002db9",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.11.0",
     "date": "2026-10-25",
     "notes": "Critter roster redrawn: cute faces, consistent style, Lab picks added",
