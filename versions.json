@@ -1,5 +1,75 @@
 [
   {
+    "version": "v0.14.0",
+    "date": "2026-10-26",
+    "notes": "Styles P and Q: creature cards",
+    "commit": "860228d",
+    "branch": "users/chase/trader",
+    "engine": "4.7.stable",
+    "styles": [
+      [
+        "O",
+        "Battlers"
+      ],
+      [
+        "P",
+        "Critter cards"
+      ],
+      [
+        "Q",
+        "Battler cards"
+      ],
+      [
+        "M",
+        "Critters huge"
+      ],
+      [
+        "N",
+        "Critters board-first"
+      ],
+      [
+        "L",
+        "Critters big"
+      ],
+      [
+        "K",
+        "Critters"
+      ],
+      [
+        "J",
+        "Mon overworld"
+      ],
+      [
+        "I",
+        "Mon battle"
+      ],
+      [
+        "D",
+        "Face-off"
+      ],
+      [
+        "E",
+        "Arena"
+      ],
+      [
+        "F",
+        "Arena + Plates"
+      ],
+      [
+        "A",
+        "Creatures"
+      ],
+      [
+        "B",
+        "Cards"
+      ],
+      [
+        "C",
+        "Hero + Cards"
+      ]
+    ]
+  },
+  {
     "version": "v0.13.0",
     "date": "2026-10-25",
     "notes": "Style O: fine UI kit, more distinct battler designs",
